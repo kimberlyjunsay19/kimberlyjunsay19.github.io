@@ -1,0 +1,89 @@
+body{
+    background-color: #854442;
+}
+
+.deepee{
+    border-radius: 500%;
+    margin-left: 450;
+}
+
+h1{
+    margin-left: 380;
+    color: #3c2f2f
+}
+
+h4{
+    margin-left: 430;
+    color: #6f3f32
+}
+
+#email{
+    margin-left: 415;
+    color: #6f3f32
+}
+
+#city{
+    margin-left: 490;
+    color: #6f3f32
+}
+
+#objective{
+    background-color: #be9b7b;
+    padding: 30;
+}
+
+#education{
+    background-color: #be9b7b;
+    padding: 30;
+}
+
+#cocurricularact{
+    background-color: #be9b7b;
+    padding: 30;
+}
+
+#seminars{
+     background-color: #be9b7b;
+    padding: 30;
+}
+
+#personb{
+     background-color: #be9b7b;
+    padding: 30;
+}
+
+#references{
+     background-color: #be9b7b;
+     padding: 30;
+     margin-top: 25
+}
+
+#upper{
+    background-color: antiquewhite
+}
+
+#lc{
+    background-color: antiquewhite
+}
+
+#href{
+    font-size: 30;
+}
+
+#fb{
+    margin-left: 52
+}
+
+h6{
+    font-size: 2.5em;
+    color: #6f3f32;
+    margin-left: 87
+}
+
+.container{
+    background-color:  #fff4e6;
+}
+
+li{
+    color:tan
+}
